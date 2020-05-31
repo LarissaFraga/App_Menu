@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">codigoMenuAula08</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="texto">"Tamanho do texto"</string>
+    <string name="cores">"Cores"</string>
+    <string name="corFonte">"Cor da Fonte"</string>
+    <string name="corTela">"Cor da Tela"</string>
+    <string name="abrir">"Abrir outra Tela"</string>
+    <string name="sair">"Sair"</string>
+</resources>
